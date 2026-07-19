@@ -9,3 +9,7 @@ Thumbs.db
 # IDEs and editors
 .idea/
 .vscode/
+
+# Automation files
+projects_config.json
+
