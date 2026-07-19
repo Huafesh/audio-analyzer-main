@@ -1,0 +1,283 @@
+[
+  {
+    "name": "CaraCruz",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\CaraCruz",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "success",
+    "github_url": "https://github.com/Huafesh/CaraCruz"
+  },
+  {
+    "name": "CrudET",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\CrudET",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "success",
+    "github_url": "https://github.com/Huafesh/CrudET"
+  },
+  {
+    "name": "EspectroDeAudio",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\EspectroDeAudio",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "success",
+    "github_url": "https://github.com/Huafesh/EspectroDeAudio"
+  },
+  {
+    "name": "FacturadorCRLibre-master",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\FacturadorCRLibre-master",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "success",
+    "github_url": "https://github.com/Huafesh/FacturadorCRLibre-master"
+  },
+  {
+    "name": "Horror",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\Horror",
+    "has_git": true,
+    "remote": "",
+    "project_type": "node",
+    "action": "public",
+    "status": "success",
+    "github_url": "https://github.com/Huafesh/Horror"
+  },
+  {
+    "name": "Inka-coffe",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\Inka-coffe",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "success",
+    "github_url": "https://github.com/Huafesh/Inka-coffe"
+  },
+  {
+    "name": "JJK",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\JJK",
+    "has_git": true,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "success",
+    "github_url": "https://github.com/Huafesh/JJK"
+  },
+  {
+    "name": "JS-visualizer-main",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\JS-visualizer-main",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "success",
+    "github_url": "https://github.com/Huafesh/JS-visualizer-main"
+  },
+  {
+    "name": "Miku",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\Miku",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "success",
+    "github_url": "https://github.com/Huafesh/Miku"
+  },
+  {
+    "name": "Nova Salud",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\Nova Salud",
+    "has_git": false,
+    "remote": "",
+    "project_type": "node",
+    "action": "public",
+    "status": "error",
+    "github_url": "",
+    "error_msg": "GraphQL: Name already exists on this account (createRepository)"
+  },
+  {
+    "name": "Trap Nation",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\Trap Nation",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "success",
+    "github_url": "https://github.com/Huafesh/Trap Nation"
+  },
+  {
+    "name": "Visualizer",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\Visualizer",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "success",
+    "github_url": "https://github.com/Huafesh/Visualizer"
+  },
+  {
+    "name": "Voice",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\Voice",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "success",
+    "github_url": "https://github.com/Huafesh/Voice"
+  },
+  {
+    "name": "audio-analyzer-main",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\audio-analyzer-main",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "pending",
+    "github_url": ""
+  },
+  {
+    "name": "bot_rpp",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\bot_rpp",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "pending",
+    "github_url": ""
+  },
+  {
+    "name": "cuadro_sistema",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\cuadro_sistema",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "pending",
+    "github_url": ""
+  },
+  {
+    "name": "facturador",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\facturador",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "pending",
+    "github_url": ""
+  },
+  {
+    "name": "facturadorpro5-master",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\facturadorpro5-master",
+    "has_git": false,
+    "remote": "",
+    "project_type": "node",
+    "action": "public",
+    "status": "pending",
+    "github_url": ""
+  },
+  {
+    "name": "gemini-watermark-remover-main",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\gemini-watermark-remover-main",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "pending",
+    "github_url": ""
+  },
+  {
+    "name": "institute",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\institute",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "pending",
+    "github_url": ""
+  },
+  {
+    "name": "los-archivos-del-insomnio",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\los-archivos-del-insomnio",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "pending",
+    "github_url": ""
+  },
+  {
+    "name": "miss-you-main",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\miss-you-main",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "public",
+    "status": "pending",
+    "github_url": ""
+  },
+  {
+    "name": "Cat-Lendar",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\Cat-Lendar",
+    "has_git": true,
+    "remote": "https://github.com/Huafesh/Cat-lendar.git",
+    "project_type": "node",
+    "action": "skip",
+    "status": "already_uploaded",
+    "github_url": "https://github.com/Huafesh/Cat-lendar.git"
+  },
+  {
+    "name": "SparkleWipe",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\SparkleWipe",
+    "has_git": true,
+    "remote": "https://github.com/Huafesh/-SparkleWipe-.git",
+    "project_type": "node",
+    "action": "skip",
+    "status": "already_uploaded",
+    "github_url": "https://github.com/Huafesh/-SparkleWipe-.git"
+  },
+  {
+    "name": "Starmark",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\Starmark",
+    "has_git": true,
+    "remote": "https://github.com/Huafesh/Starmark.git",
+    "project_type": "generic",
+    "action": "skip",
+    "status": "already_uploaded",
+    "github_url": "https://github.com/Huafesh/Starmark.git"
+  },
+  {
+    "name": "js",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\js",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "skip",
+    "status": "detected_skip",
+    "github_url": ""
+  },
+  {
+    "name": "sonidos",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\sonidos",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "skip",
+    "status": "detected_skip",
+    "github_url": ""
+  },
+  {
+    "name": "xd",
+    "path": "c:\\Users\\Huafesh\\OneDrive\\Documentos\\Proyectos\\xd",
+    "has_git": false,
+    "remote": "",
+    "project_type": "generic",
+    "action": "skip",
+    "status": "detected_skip",
+    "github_url": ""
+  }
+]
